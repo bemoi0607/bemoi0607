@@ -1,4 +1,5 @@
-## Hi there 👋 I'm a full-stack product developer and the technical founder of Loqu —  
+## Hi there Im Sangbeom👋 
+I'm a full-stack product developer and the technical founder of Loqu —  
 a language exchange platform designed to connect real people through meaningful conversation,  
 with AI assisting silently in the background when needed.
 
