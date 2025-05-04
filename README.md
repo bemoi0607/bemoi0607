@@ -5,42 +5,17 @@ with AI assisting silently in the background when needed.
 
 ---
 
-## How I built Loqu
+## 🛠 How I built Loqu
 
-**Backend**  
-![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+Loqu is built as a fully serverless, cross-platform application using:
 
-**Mobile / Web App**  
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+- **Frontend**: React Native (with Expo) for mobile and web, and Next.js for admin & landing pages  
+- **Backend**: AWS Amplify, AppSync (GraphQL), CDK, Lambda, DynamoDB, and S3  
+- **LLM Integration**: Custom TypeScript SDK wrapping OpenAI’s GPT models (GPT-4o)  
+- **UI/UX**: Gluestack UI, Storybook, and a strong focus on UX flows tailored for language learners  
+- **Tooling & Infra**: Docker, Devcontainers, Jest, Cypress, and GitHub Actions for CI/CD
 
-**Admin & Landing Pages**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-**LLM Integration**  
-![TypeScript SDK](https://img.shields.io/badge/TypeScript%20SDK-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GPT-4o](https://img.shields.io/badge/GPT--4o-grey?style=for-the-badge)
-![Custom](https://img.shields.io/badge/Custom-green?style=for-the-badge)
-
-**UI**  
-![Gluestack UI](https://img.shields.io/badge/Gluestack%20UI-5A45FF?style=for-the-badge)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-
-**Testing**  
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-
-**Dev Environment**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Devcontainers](https://img.shields.io/badge/Devcontainers-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![AI Copilot](https://img.shields.io/badge/AI%20Copilot-grey?style=for-the-badge)
-![Custom](https://img.shields.io/badge/Custom-blue?style=for-the-badge)
+💬 Ask me about anything related to serverless architecture, full-stack TypeScript, LLM integration, or cross-platform app development with Expo and React Native.
 
 
 ## Things I've worked on
