@@ -3,15 +3,9 @@ I'm a full-stack product developer and the technical founder of Loqu —
 a language exchange platform designed to connect real people through meaningful conversation,  
 with AI assisting silently in the background when needed.
 
-## Hi there, I'm Sangbeom
-
-I'm a full-stack product developer and the technical founder of **Loqu** —  
-a language exchange platform designed to connect real people through meaningful conversation,  
-with AI assisting silently in the background when needed.
-
 ---
 
-**Recently used while developing Loqu**
+## 🚀 Recently used while developing Loqu
 
 **Backend**  
 ![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
@@ -48,17 +42,8 @@ with AI assisting silently in the background when needed.
 ![AI Copilot](https://img.shields.io/badge/AI%20Copilot-grey?style=for-the-badge)
 ![Custom](https://img.shields.io/badge/Custom-blue?style=for-the-badge)
 
-![Gluestack UI](https://img.shields.io/badge/Gluestack_UI-5A45FF?style=for-the-badge)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
-** Testing
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-** Dev Environment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Devcontainer](https://img.shields.io/badge/DevContainers-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Copilot](https://img.shields.io/badge/AI_Copilot-Custom-blue?style=for-the-badge)
 
 <!--
 **bemoi0607/bemoi0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
