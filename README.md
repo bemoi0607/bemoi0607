@@ -43,7 +43,12 @@ with AI assisting silently in the background when needed.
 ![Custom](https://img.shields.io/badge/Custom-blue?style=for-the-badge)
 
 
-
+## Work Highlights
+Designed and deployed a premium AI writing assistant to enhance sentence clarity and tone, powered by GPT models and AWS Lambda
+Built a scalable thread-based feed and real-time chat infrastructure using AWS AppSync and GraphQL
+Set up full CI/CD pipelines with automated deployment to App Store and Play Store
+Developed an advanced multilingual language detection system using LLMs and AWS services
+Created UX flows that guide users to write in their learning language first, then follow with their native language for reflection and clarity
 
 <!--
 **bemoi0607/bemoi0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
