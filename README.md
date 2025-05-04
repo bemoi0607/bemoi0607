@@ -5,7 +5,7 @@ with AI assisting silently in the background when needed.
 
 ---
 
-## 🚀 Recently used while developing Loqu
+## How I built Loqu
 
 **Backend**  
 ![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
