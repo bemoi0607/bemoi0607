@@ -51,20 +51,17 @@ with AI assisting silently in the background when needed.
 • Developed an advanced multilingual language detection system using LLMs and AWS services<br>
 • Created UX flows that guide users to write in their learning language first, then follow with their native language for reflection and clarity
 
-## 🌱 What I'm learning lately
+## 🌱 What I'm learning & exploring
 
-• I'm really into building scalable, reliable systems — figuring out how to make things fast, stable, and easy to maintain over time.
-
-• Recently, I've been having a lot of fun experimenting with LLMs. There's something exciting about blending AI with human-centered features in thoughtful ways.
-
+• I'm really into building scalable, reliable systems — figuring out how to make things fast, stable, and easy to maintain over time.  
+• Recently, I've been having a lot of fun experimenting with LLMs. There's something exciting about blending AI with human-centered features in thoughtful ways.  
 • I’ve also been digging deeper into UX — trying to understand how small interaction patterns can make a big difference in how people use the product.
 
----
+If you’re into similar things — scalable systems, AI, or product design — I’d love to chat.  
+Feel free to reach out anytime:
 
-## 🤝 Let’s connect
+[LinkedIn](https://www.linkedin.com/in/sangbeom-lee) | [Twitter (X)](https://x.com/SangbeomLe68592)
 
-[LinkedIn](https://www.linkedin.com/in/sangbeom-lee)  
-[Twitter (X)](https://x.com/SangbeomLe68592)
 
 
 
