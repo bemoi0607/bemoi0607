@@ -43,7 +43,7 @@ with AI assisting silently in the background when needed.
 ![Custom](https://img.shields.io/badge/Custom-blue?style=for-the-badge)
 
 
-## Work Highlights
+## Things I've worked on
 
 • Designed and deployed a premium AI writing assistant to enhance sentence clarity and tone, powered by GPT models and AWS Lambda<br>
 • Built a scalable thread-based feed and real-time chat infrastructure using AWS AppSync and GraphQL<br>
