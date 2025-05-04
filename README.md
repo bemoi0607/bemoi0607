@@ -37,6 +37,10 @@ Feel free to reach out anytime:
 
 [LinkedIn](https://www.linkedin.com/in/sangbeom-lee) | [Twitter (X)](https://x.com/SangbeomLe68592)
 
+## 🏃‍♂️ Outside of work
+
+Lately, I’ve been really into boxing — I start most mornings with a few rounds at the gym.  
+I’ve always loved staying active, and I’m also into weight training and playing basketball when I get the chance.
 
 
 
