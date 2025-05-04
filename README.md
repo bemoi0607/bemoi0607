@@ -5,15 +5,15 @@ with AI assisting silently in the background when needed.
 
 ---
 
-## 🛠 How I built Loqu
+## 🛠 What I work with
 
-Loqu is built as a fully serverless, cross-platform application using:
+Here are the tools and technologies I’ve been using most often in my recent projects:
 
-- **Frontend**: React Native (with Expo) for mobile and web, and Next.js for admin & landing pages  
-- **Backend**: AWS Amplify, AppSync (GraphQL), CDK, Lambda, DynamoDB, and S3  
-- **LLM Integration**: Custom TypeScript SDK wrapping OpenAI’s GPT models (GPT-4o)  
-- **UI/UX**: Gluestack UI, Storybook, and a strong focus on UX flows tailored for language learners  
-- **Tooling & Infra**: Docker, Devcontainers, Jest, Cypress, and GitHub Actions for CI/CD
+- **Frontend**: React Native (with Expo), Next.js  
+- **Backend**: AWS Amplify, GraphQL (AppSync), CDK, Lambda, DynamoDB, S3  
+- **AI/LLM**: Custom TypeScript SDK integrating GPT models (GPT-4o via OpenAI)  
+- **UI/UX**: Gluestack UI, Storybook, UX flow design  
+- **Infra/Tooling**: Docker, Devcontainers, Jest, Cypress, GitHub Actions
 
 💬 Ask me about anything related to serverless architecture, full-stack TypeScript, LLM integration, or cross-platform app development with Expo and React Native.
 
