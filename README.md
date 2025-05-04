@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm a full-stack product developer and the technical founder of Loqu —  
+a language exchange platform designed to connect real people through meaningful conversation,  
+with AI assisting silently in the background when needed.
+
 
 #### 🔧 Backend
 ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
