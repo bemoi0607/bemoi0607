@@ -18,7 +18,7 @@ Here are the tools and technologies I’ve been using most often in my recent pr
 💬 Ask me about anything related to serverless architecture, full-stack TypeScript, LLM integration, or cross-platform app development with Expo and React Native.
 
 
-## Things I've worked on
+## ✨ Things I've worked on
 
 • Designed and deployed a premium AI writing assistant to enhance sentence clarity and tone, powered by GPT models and AWS Lambda<br>
 • Built a scalable thread-based feed and real-time chat infrastructure using AWS AppSync and GraphQL<br>
